@@ -1,0 +1,7 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "Movie API with GrpahQL",
+  "main": "index.js",
+  "license": "MIT"
+}
